@@ -1,0 +1,15 @@
+Code written by Graham W Smith for the Flipboard coding challenge for Summer 2016
+
+Compile with:
+javac -cp \* MazeSolver.java
+
+Run with:
+java -cp .:\* MazeSolver
+
+These commands worked for me on Ubuntu and should work in any Unix terminal.
+Aparrently in Windows you should replace the : with ;
+The commands require you to be in the same directory as the .java, (.class), and both .jar files.
+
+I wrote the code as an Eclipse project originally, so if you'd rather have that package, I can send that over.
+
+See samplesolutions.txt for the requested 3 sample solutions.
